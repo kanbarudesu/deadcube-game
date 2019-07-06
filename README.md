@@ -1,2 +1,2 @@
 # deadcube-game
-my first prototyping game on unreal
+my first prototype game on unreal
